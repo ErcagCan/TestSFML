@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TestSFML.dir/main.cpp.o -o TestSFML  -Wl,-rpath,/home/astrevallion/Documents/TestSFML/SFML-2.4.0/lib ../SFML-2.4.0/lib/libsfml-graphics-d.so ../SFML-2.4.0/lib/libsfml-window-d.so ../SFML-2.4.0/lib/libsfml-system-d.so 
